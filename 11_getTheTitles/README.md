@@ -11,7 +11,11 @@ const books = [
   {
     title: 'Book2',
     author: 'Name2'
-  }
+  },
+  {
+    title: 'Odyssey',
+    author: 'Idk',
+  },
 ]
 ```
 
